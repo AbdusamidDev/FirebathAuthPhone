@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "63248966341",
+    "project_id": "fir-authsms-17d8e",
+    "storage_bucket": "fir-authsms-17d8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63248966341:android:bc2716456483b5eb4906ac",
+        "android_client_info": {
+          "package_name": "develop.abdusamid.firebaseauthsmssend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63248966341-eqhjuh9qobuh0q6kg1qo9ehnr9k55ncl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiLqClqTDyFDCn_HxMKMqDeZK1LSa1Vtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63248966341-eqhjuh9qobuh0q6kg1qo9ehnr9k55ncl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

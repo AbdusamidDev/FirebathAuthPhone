@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FirebaseAuthSMSSend</string>
+    <string name="welcome">Welcome!</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="number_for_authorization">Enter Your Phone Number For Authorization</string>
+    <string name="sign_in">Sign In</string>
+    <string name="number">+998(93) 461–41-88</string>
+    <string name="enter_sms_code">Enter SMS code!</string>
+    <string name="one_time_code">One time code sent to +998(93) 461-**-** phone number</string>
+    <string name="sms_code">SMS code</string>
+    <string name="time">00:59</string>
+    <string name="resend_code">Resend Code</string>
+</resources>
